@@ -1,2 +1,2 @@
-# tiru-projects
-this is my first project
+# plsql
+PL/SQL Examples
